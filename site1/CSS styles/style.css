@@ -1,0 +1,336 @@
+* {
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  font-family:Myriad Pro;
+}
+/* header */
+
+.bigblue {
+  background-color:rgba(173,225,197,1);
+  height:20rem;
+  width:100%;
+  margin-top:2rem;
+}
+
+
+.nav-header {
+
+  letter-spacing: 0.1rem;
+    padding-top:2rem;
+}
+.menu {
+    border-top:rgba(241,241,241,1) solid 0.1rem;
+}
+a, .search {
+    text-transform: uppercase;
+  
+}
+.search {
+  color :rgba(90,90,90,.5);
+  margin-left:1rem;
+  display:inline; 
+}
+.menu a:hover {
+  text-decoration: underline;
+  color: rgba(180,224,207,.5);
+}
+
+
+a{
+  text-decoration:none;
+  margin:0px;
+}
+
+h1, ul {
+  text-align: center;
+}
+
+.logo {
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.img-search {
+  width:1rem;
+  margin-left:15rem;
+ 
+}
+.img-search .search {
+display : inline-block;
+ 
+}
+
+.newa {
+  padding-top:3.4rem;
+  margin-left:25%;
+  font-family: Brush Script Std;
+  font-size:2rem;
+}
+
+.skyp {
+  margin-left:30%;
+    font-size:2.6rem;
+  text-transform: uppercase;
+}
+
+.dolar {
+    margin-left: 49.5%;
+    position: absolute;
+    margin-top: -3.7%;
+}
+
+.shopnow {
+  margin-left:30%;
+  text-decoration:underline;
+}
+
+.img-bigblue {
+ float:right;
+  letter-spacing: 2rem;
+  margin-right:15%;
+  margin-top:1rem;
+}
+
+.header-pages {
+ position: absolute;
+ line-height:2rem;
+  margin-left:88rem;
+  margin-top:-6.5rem;
+  color:black;
+
+}
+
+.header-pages a {
+  display: block;
+    font-family:Myriad Pro;
+  border-bottom: rgba(159,207,180,3) solid .2rem;
+}
+
+.header-pages a:hover {
+  color:rgba(244,251,247,.2);
+}
+
+/* sections */
+
+/* section 1 */
+
+.section1 {
+  width:70%;
+  height:3rem;
+  margin-top:1rem;
+  border-bottom: rgba(233,233,233,1) solid 0.2rem;
+  margin-left:auto;
+  margin-right:Auto;
+}
+
+.search-s1 {
+  float:right;
+  margin-right:3rem;
+}
+
+.sectionunu-menu {
+  display:inline;
+  letter-spacing: .2rem;
+}
+
+.all:hover{
+
+  color: rgba(196,225,214,1);
+}
+.all {
+  word-spacing: 5rem;
+}
+
+/* section 2 */
+
+.section2 {
+  
+  width:70%;
+  height:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:1rem;
+}
+
+.boxuri1 {
+display:flex;
+
+}
+
+
+.box1 {
+  width:25%;
+  height:20rem;
+border:1px solid black;
+}
+
+.box2 {
+  width:25%;
+  height:20rem;
+  margin:0 auto;
+ border:1px solid black;
+}
+
+.box3 {
+  width:25%;
+  height:20rem;
+
+border:1px solid black;
+}
+
+.iconite {
+  width:40%;
+  height:45%;
+  float:left;
+}
+
+.iconite img {
+  display:block;
+  margin:0 auto;
+  margin-top:1.3rem;
+}
+
+.roz {
+  width:60%;
+  height:60%;
+  border: 1px solid black;
+  float:right;
+  background:pink;
+ 
+}
+
+.name {
+  margin-left:5.5rem;
+  margin-top:13rem;
+  display:flex;
+}
+
+.price {
+  margin-left:4.7rem;
+}
+.buy {
+  margin-top:1.5rem;
+  margin-left:4rem;
+ width:55%;
+  padding-top:.5rem;
+  Border-top:1px solid grey;
+}
+
+.boxuri2 {
+  display:flex;
+  padding-top:2rem;
+  
+}
+
+.box4 {
+ width:25%;
+  height:20rem;
+border:1px solid black;
+}
+
+.box5 {
+
+   width:25%;
+  height:20rem;
+border:1px solid black;
+  margin:0 auto;
+}
+
+
+.box6 {
+
+   width:25%;
+  height:20rem;
+border:1px solid black;
+}
+
+.blue {
+  
+    width:60%;
+  height:60%;
+  border: 1px solid black;
+  float:right;
+  background:rgba(142,209,183,1);
+  
+  
+}
+/* section 3 */
+
+.section3 {
+  padding-top:6rem;
+    width:100%;
+  height:100%;
+}
+
+.featured {
+  float:right;
+}
+.wood {
+  float:right;
+  
+}
+.lava-text-featured  {
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 775px;
+  color:white;
+}
+
+.ceramic-text-featured {
+    margin-top: 227px;
+    position: absolute;
+    margin-left: 775px;
+}
+
+.pelle-text-featured {
+    margin-top: 275px;
+    position: absolute;
+    margin-left: 775px;
+  font-size:.635rem;
+  width:22%;  
+  color:white;
+  text-decoration: none;  
+}
+
+.shop-text-featured {
+    margin-top: 400px;
+    position: absolute;
+    margin-left: 775px;
+  text-decoration: underline;
+}
+
+.capture {
+  height:100%;
+  width:100%;
+  padding-left:320px;
+  padding-top:250px;
+}
+
+
+
+/* section 4 */
+
+.section4 {
+  margin-top:5.3rem;
+  height:10rem;
+  width:100%;
+  background:rgba(29,30,36,1);
+}
+
+.images-section4 div {
+  display:inline-flex;
+  width:20%;
+}
+
+.fast {
+font-size:10px;
+}
+.masina {
+  display:block;
+}
+
+/* section 5 */
+
+
